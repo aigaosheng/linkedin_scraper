@@ -1,2 +1,2 @@
 # linkedin_scraper
-scrap linkedin profile
+Scrap linkedin profiles using specified keywords and save formated profile into CSV/Exceel. Need sales nagivator account.
